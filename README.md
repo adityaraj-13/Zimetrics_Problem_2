@@ -102,13 +102,13 @@ This ensured consistent numeric processing and eliminated both conversion errors
 
 ### Input: Raw Sales Data (`sales.csv`)
 This screenshot shows the original CSV file with inconsistent price formats and quoted product names.
-![Input Sales CSV](images\sales_csv.png)
+![Input Sales CSV](images/sales_csv.png)
 
 --- 
 
 ### Output: Cleaned JSON Report (`clean_sales.json`)
 This screenshot shows the final cleaned output after deduplication and currency conversion.
- ![Output Sales JSON](images\clean_sales_json.png)
+ ![Output Sales JSON](images/clean_sales_json.png)
 
  
 ---
