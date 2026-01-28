@@ -44,7 +44,7 @@ Follow the steps below to set up and run the ETL pipeline locally.
 Open your terminal (or VS Code terminal) and run:
 
 
-1. git clone https://github.com/<your-username>/zimetrics.git
+1. git clone https://github.com/adityaraj-13/Zimetrics_Problem_2.git
 2. cd Zimetrics
 
 
