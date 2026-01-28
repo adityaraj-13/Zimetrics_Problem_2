@@ -45,7 +45,7 @@ Open your terminal (or VS Code terminal) and run:
 
 
 1. git clone https://github.com/adityaraj-13/Zimetrics_Problem_2.git
-2. cd Zimetrics
+2. cd .\Zimetrics_Problem_2\
 
 
 
