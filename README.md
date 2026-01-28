@@ -90,7 +90,7 @@ I resolved both issues by:
 
 - Using a raw string (r'') for the regex pattern to correctly handle special characters
 
--Removing $ symbols and commas using regex-based replacement
+- Removing $ symbols and commas using regex-based replacement
 
 - Converting the cleaned values safely to float
 
